@@ -22,7 +22,7 @@
   <!-- /.login-logo -->
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <a href="./app/index2.html" class="text-dark">
+      <a href="#" class="text-dark">
         <b class="h1 font-weight-bold">SIKAMPUS</b>
         <div>Sistem Informasi Kampus</div>
       </a>
